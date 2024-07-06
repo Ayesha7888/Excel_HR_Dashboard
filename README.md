@@ -1,1 +1,1 @@
-# Excel_HR_Dashboard
+This repository contains the Power BI dashboard for the Employee attrition,identified key factors to reduce attrition  The dashboard Provides Attrition By education,age,salary slab and attrition by job role.
